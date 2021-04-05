@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/greedyHunter/static/css/main.6d0a304b.chunk.css",
+    "main.js": "/greedyHunter/static/js/main.f7080cc1.chunk.js",
+    "main.js.map": "/greedyHunter/static/js/main.f7080cc1.chunk.js.map",
+    "runtime-main.js": "/greedyHunter/static/js/runtime-main.7e45ae3d.js",
+    "runtime-main.js.map": "/greedyHunter/static/js/runtime-main.7e45ae3d.js.map",
+    "static/js/2.66f9a351.chunk.js": "/greedyHunter/static/js/2.66f9a351.chunk.js",
+    "static/js/2.66f9a351.chunk.js.map": "/greedyHunter/static/js/2.66f9a351.chunk.js.map",
+    "index.html": "/greedyHunter/index.html",
+    "static/css/main.6d0a304b.chunk.css.map": "/greedyHunter/static/css/main.6d0a304b.chunk.css.map",
+    "static/js/2.66f9a351.chunk.js.LICENSE.txt": "/greedyHunter/static/js/2.66f9a351.chunk.js.LICENSE.txt",
+    "static/media/gamePlay.style.scss": "/greedyHunter/static/media/background.2b3eb9a3.png",
+    "static/media/food.846e0ec2.svg": "/greedyHunter/static/media/food.846e0ec2.svg",
+    "static/media/greedy.949c4d38.svg": "/greedyHunter/static/media/greedy.949c4d38.svg",
+    "static/media/life.a9c9c1eb.svg": "/greedyHunter/static/media/life.a9c9c1eb.svg",
+    "static/media/mesh.7f918e22.svg": "/greedyHunter/static/media/mesh.7f918e22.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e45ae3d.js",
+    "static/js/2.66f9a351.chunk.js",
+    "static/css/main.6d0a304b.chunk.css",
+    "static/js/main.f7080cc1.chunk.js"
+  ]
+}
