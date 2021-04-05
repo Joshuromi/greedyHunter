@@ -1,3 +1,16 @@
 .game-play {
-    color: #fff;
+    background-image: url("../../assets/background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .game-board {
+        background-color: #fff;
+        width: 710px;
+        height: 780px;
+        border-radius: 18px;
+    }
 }
