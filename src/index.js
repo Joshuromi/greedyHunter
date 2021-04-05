@@ -8,7 +8,6 @@ import App from './App';
 
 import './index.scss';
 
-
 ReactDOM.render(
   <Provider store={store}>
     <BrowserRouter>
