@@ -1,5 +1,4 @@
 import GameInfo from "../../components/game-info/gameInfo.component";
-
 import { ReactComponent as Mesh } from "../../assets/mesh.svg";
 import "./gameStart.style.scss";
 

@@ -20,7 +20,8 @@ class GameInfo extends React.Component {
         const { history } = this.props;
 
         setGridType({
-            grid: `${grid} x ${grid}`,
+            grid: grid,
+            gridSize: `${grid} x ${grid}`,
             maxMove: Math.floor((grid * grid) / 2),
             totalGrid: grid * grid
         });
