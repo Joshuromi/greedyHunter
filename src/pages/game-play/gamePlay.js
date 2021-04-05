@@ -9,14 +9,14 @@ const GamePlay = ({ gridType: { grid, gridSize, maxMove, totalGrid } }) => (
             <div className="top-info">
                 <p>Grid: <span>{gridSize}</span></p>
                 <Life />
-                <p>Time spent: <span>00:48 secs</span></p>
+                <p>Time spent: <span>00:00 secs</span></p>
             </div>
             <div className="game-grids">
                 <GridHolder totalGrid={totalGrid} grid={grid} />
             </div>
             <div className="bottom-info">
                 <p>Maximum moves: <span>{maxMove}</span></p>
-                <p>Total moves: <span>12</span></p>
+                <p>Total moves: <span>00</span></p>
             </div>
         </div>
     </div>
